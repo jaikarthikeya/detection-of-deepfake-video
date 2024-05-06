@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 NAME="project_settings"                                  # Name of the application
